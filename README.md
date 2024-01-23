@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fs28zf8y4pea91.gif](https://eportfolio.utm.my/artefact/file/download.php?file=707941&view=156289)" >
+<img align="right" alt="Coding" width="400" src="./programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyspunei&label=Profile%20views&color=0e75b6&style=flat" alt="tonyspunei" /> </p>
 
