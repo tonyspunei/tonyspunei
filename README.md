@@ -1,5 +1,5 @@
-<h1 align="center">Tony Spunei</h1>
-<h3 align="center">Fullstack Developer, learning DevOps, command line inhabitant. I work mainly Svelte, Typescript, Linux, Kubernetes, MongoDB and Python</h3>
+<h1>Tony Spunei</h1>
+<h3>Fullstack Developer, learning DevOps, command line inhabitant. I work mainly Svelte, Typescript, Linux, Kubernetes, MongoDB and Python</h3>
 <img align="right" alt="Coding" width="400" src="./programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyspunei&label=Profile%20views&color=0e75b6&style=flat" alt="tonyspunei" /> </p>
