@@ -28,8 +28,8 @@
 <h2>Philosophy</h2>
 <blockquote>
 Only those who will risk going too far can possibly find out how far one can go.
-~T. S. Eliot
 </blockquote>
+<p>~<cite>T. S. Eliot</cite></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
