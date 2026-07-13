@@ -16,7 +16,7 @@
 
 <h3>Lab</h3>
 <p>This repository brings together my labs, projects, scripts, and experiments used to explore ideas and gain hands-on experience.</p>
-<a href="https://github.com/tonyspunei/devops-study-app" target="blank">https://github.com/tonyspunei/lab</a>
+<a href="https://github.com/tonyspunei/lab" target="blank">https://github.com/tonyspunei/lab</a>
 
 <!-- <h2>Recent Blog Posts</h2>
 <ul>
